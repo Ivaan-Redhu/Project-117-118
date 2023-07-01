@@ -1,0 +1,35 @@
+body {
+    background-color: darkseagreen;
+}
+
+h1{
+    font-family: 'Oswald', sans-serif;
+    background-color: greenyellow;
+    color: rebeccapurple;
+    font-size:30;
+}
+
+#score {
+    float: left;
+    font-size: 20;
+    margin-left: 5px;
+}
+
+#timer {
+    float: right;
+    font-size:20;
+    margin-right: 35px;
+}
+
+#sketchtobedrawn {
+    color:blueviolet;
+    font-size: 20;
+}
+
+#yoursketch {
+    font-size: 20;
+}
+
+#confidence {
+    font-size: 20;
+}
